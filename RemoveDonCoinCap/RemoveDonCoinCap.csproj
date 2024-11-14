@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ModName>RemoveDonCoinCap</ModName>
-    <ModVersion>0.0.1</ModVersion>
-    <Description>A Rhythm Festival template for mod creation.</Description>
+    <ModVersion>1.0.0</ModVersion>
+    <Description>A mod for Rhythm Festival to remove the Don Coin cap of 99999.</Description>
   </PropertyGroup>
   
   <Target Name="UserFile" AfterTargets="PreBuildEvent">
